@@ -1,0 +1,99 @@
+What is a webSocket??
+
+A websocket is a communication protocol with full-duplex capacities over interconnected networks.
+
+When to use websockets??
+
+Aying websockets can be used for bi-directional communication adn trasfer fo informatin over a network doesn’t tellus much about its actual capacities. In this section we are going to view some of its common uses.
+
+Multiplayer games
+
+Building games for the web seems relatively easy, till when it involves the implementation of multiplayers for th game. This is an example of where websockets excel and does so so well.
+
+Social networking
+
+If you are building a social media, you will definitely need to include communication in real time. Another great example of websockets implementation.
+
+Collaborative applications
+
+Nowadays, we are all interested as dev to collaborate on a project real time and find the changes you created be shown to all the other devs on th team instantly. These would have not being posible without the use of websockets.
+
+Video/Audio livestreamming 
+
+You may want to build an application that require streaming in any form (audio or video, or even both), you’ll definitely make find the use of websockets everywhere in your application. Just kidding. But, you’ll really use it in most parts of the application.
+
+Location-based applications
+
+Location collection has become one of the most used feature of websockets for devs. Websockets also excel well here.
+
+This short list comprises of only some of the essentials and most used aspects of websockets. There are many other uses that are not mensioned in this list.
+
+Some companies that make use of websockets 
+
+Meta
+
+Being one of the tech giants of mordern days, most meta products make use of websockets. Some examples of such products include:
+
+WhatsApp
+
+Being ranked most used messaging app in 2022, WhatsApp makes intensive use of websockets fo rthe bidirection flow of information
+
+Facebook messenger
+
+Google
+
+Signal
+
+CodeSanboxWhat is a webSocket??
+
+A websocket is a communication protocol with full-duplex capacities over interconnected networks.
+
+When to use websockets??
+
+Aying websockets can be used for bi-directional communication adn trasfer fo informatin over a network doesn’t tellus much about its actual capacities. In this section we are going to view some of its common uses.
+
+Multiplayer games
+
+Building games for the web seems relatively easy, till when it involves the implementation of multiplayers for th game. This is an example of where websockets excel and does so so well.
+
+Social networking
+
+If you are building a social media, you will definitely need to include communication in real time. Another great example of websockets implementation.
+
+Collaborative applications
+
+Nowadays, we are all interested as dev to collaborate on a project real time and find the changes you created be shown to all the other devs on th team instantly. These would have not being posible without the use of websockets.
+
+Video/Audio livestreamming 
+
+You may want to build an application that require streaming in any form (audio or video, or even both), you’ll definitely make find the use of websockets everywhere in your application. Just kidding. But, you’ll really use it in most parts of the application.
+
+Location-based applications
+
+Location collection has become one of the most used feature of websockets for devs. Websockets also excel well here.
+
+This short list comprises of only some of the essentials and most used aspects of websockets. There are many other uses that are not mensioned in this list.
+
+Some companies that make use of websockets 
+
+Meta
+
+Being one of the tech giants of mordern days, most meta products make use of websockets. Some examples of such products include:
+
+WhatsApp
+
+Being ranked most used messaging app in 2022, WhatsApp makes intensive use of websockets fo rthe bidirection flow of information
+
+Facebook messenger
+
+Google
+
+Signal
+
+CodeSanboxWhat is a webSocket??
+
+A websocket is a communication protocol with full-duplex capacities over interconnected networks.
+
+When to use websockets??
+
+Aying websockets can be used for bi

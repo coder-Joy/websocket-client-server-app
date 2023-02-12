@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="./script.js" defer></script>
+    <style>
+        *::before,
+        *::after {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        .message-box {
+            width: 100vw;
+            height: 100px;
+            background: #2aafaa;
+            position: absolute;
+            bottom: 0;
+            display: flex;
+            align-items: center;
+            justify-content: space-evenly;
+        }
+
+        .message-box>input {
+            width: 80%;
+            border-radius: 10px;
+            padding: 10px;
+        }
+
+        .message-box>button {
+            padding: 8px;
+            font-size: large;
+            border-radius: 45%;
+            background: red;
+            color: white;
+        }
+
+        .message-box>button:hover {
+            background: #eb7b8e;
+            color: black;
+            word-wrap: break-word;
+        }
+
+        .my-message {
+            background: #234ada;
+            color: white;
+            width: 180px;
+            position: relative;
+            right: 0;
+            float: right;
+            right: 10px;
+            border-radius: 20px;
+            padding: 20px;
+            word-wrap: anywhere;
+        }
+        .your-message{
+            background: #eb7b8e;
+            color: white;
+            width: 180px;
+            word-wrap: anywhere;
+            padding: 20px;
+            border-radius: 20px;
+        }
+        .my-content-box {
+            width: 50vw;
+            height: 85vh;
+            right: 0;
+            position: fixed;
+            overflow: scroll;
+            bottom: 110px;
+        }
+        .your-content-box{
+            width: 50vw;
+            height: 85vh;
+            left: 0;
+            position: fixed;
+            overflow: scroll;
+            bottom: 110px;
+        }
+    </style>
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="my-content-box"></div>
+    <div class="your-content-box"></div>
+
+    <div class="message-box">
+        <input type="text" placeholder="Enter your message" id="message-input">
+        <!-- <textarea name="" id="" cols="30" rows="10"></textarea> -->
+        <button id="send-btn">Send</button>
+    </div>
+</body>
+
+</html>
